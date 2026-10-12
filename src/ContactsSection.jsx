@@ -78,7 +78,7 @@ export default function ContactsSection({contacts, lang}) {
 
   <div className="flex flex-wrap gap-4 mb-6">
     <a
-      href="mailto:gavrilova.elena@i.ua"
+      href="mailto:ceo_finansist@gmail.com"
       className="inline-flex items-center gap-2 rounded-lg
         bg-blue-600 px-6 py-3 text-white font-medium
         hover:bg-blue-700 transition-colors duration-300 "
@@ -88,7 +88,7 @@ export default function ContactsSection({contacts, lang}) {
     </a>
 
     <a
-      href="tel:+380977165847"
+      href="tel:+380503429491"
       className="inline-flex items-center gap-2 rounded-lg
         border border-gray-300 px-6 py-3 text-gray-800
         font-medium hover:bg-white transition-colors duration-300 "
@@ -132,20 +132,20 @@ export default function ContactsSection({contacts, lang}) {
             <div className="flex items-center space-x-3">
               <PhoneIcon className="w-6 h-6 text-blue-600" />
               <a
-                href="tel:+380977165847"
+                href="tel:+380503429491"
                 className="hover:text-blue-600 transition-colors"
               >
-                +380 (97) 716-58-47
+                +380 (50) 342-94-91
               </a>
             </div>
 
             <div className="flex items-center space-x-3">
               <EnvelopeIcon className="w-6 h-6 text-blue-600" />
               <a
-                href="mailto:gavrilova.elena@i.ua"
+                href="mailto:ceo_finansist@gmail.com"
                 className="hover:text-blue-600 transition-colors"
               >
-                gavrilova.elena@i.ua
+                ceo_finansist@gmail.com
               </a>
             </div>
 
@@ -160,7 +160,7 @@ export default function ContactsSection({contacts, lang}) {
             <div className="flex items-center space-x-3">
               <DocumentIcon className="w-6 h-6 text-blue-600 mt-[2px]" />
               <span>
-                {contacts.regNum}: 23647230 
+                {contacts.regNum}: 21860250 
               </span>
             </div>
           </div>
